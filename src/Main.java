@@ -13,6 +13,7 @@ public class Main {
         dataBaseCompany.averSalary();
         dataBaseCompany.minSalary(1);
         dataBaseCompany.maxSalary(2);
+
         dataBaseCompany.departCosts(1);
         dataBaseCompany.findAverageSalaryOfDepartment(1);
         dataBaseCompany.indexSalaryOfDepartment(10,1);
